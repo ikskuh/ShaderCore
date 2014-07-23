@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShaderCore" GeneratedClassName="LocalizedStrings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ShaderCompilerFailed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Failed to compile {0}</Value>
+    </Setting>
+    <Setting Name="ShaderCompilerResult" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{0} successfully compiled:</Value>
+    </Setting>
+    <Setting Name="ShaderLinkerFailed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Failed to link shader:</Value>
+    </Setting>
+    <Setting Name="ShaderLinkerResult" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shader compiled successfully:</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
